@@ -8,5 +8,7 @@
 	<platform>PC , Mac , Linux , Android , IOS</platform>
 	<user>MOH3EN5</user>
 	<pass>MOH3EN5</pass>
+	 <ip>95.216.53.149</ip>
+	<port>2000</port>
 </server>
 </BlackRoter>
